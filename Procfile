@@ -1,1 +1,1 @@
-worker: python hammer.py
+worker: python hammer.py -s dreamfinity.org
